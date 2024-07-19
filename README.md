@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on learning technologies.<br>- 🌱 I’m currently learning JavaScript. 
+- 🔭 I’m currently working on learning technologies.<br>
+- 🌱 I’m currently learning JavaScript. 
 
 
 # 💻 Tech Stack:
