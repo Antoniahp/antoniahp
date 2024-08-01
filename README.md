@@ -1,6 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working on learning technologies.<br>
-- 🌱 I’m currently learning JavaScript. 
+I'm Antonia, a passionate web developer 👩🏻‍💻. My journey in the development world started as a self-learner, and since then, I've been immersed in a continuous learning process 📚.
+
+Since venturing into self-learning, I've worked on diverse projects that have enriched my experience and technical skills. My focus goes beyond just writing code, it's about finding practical and creative solutions to make things work efficiently.
+
+I firmly believe in the power of collaboration and effective communication. I'm excited about the opportunity to contribute to challenging projects and learn alongside passionate teams 🤩.
 
 
 # 💻 Tech Stack:
